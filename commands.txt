@@ -2,3 +2,6 @@ git init [initializing git]
 git status [status check]
 git add
 git commit
+git push[local repository to remote repository]
+git clone[exact copy of remote repository to local repository]
+git pulle[changes of remote repository to local repository]
