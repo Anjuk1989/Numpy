@@ -6,3 +6,4 @@ git push[local repository to remote repository]
 git clone[exact copy of remote repository to local repository]
 git pull[changes of remote repository to local repository]
 git remote-V
+git
